@@ -15,5 +15,5 @@ namespace std
   %template(CplxDoubleVector) vector< std::complex<double> >;
 }
 
-%include "hom4ps.hh"
+%include "hom4ps/hom4ps.hh"
 
